@@ -8,3 +8,4 @@ Resources:
           ContainerName: "audit-authorizationfinal"
           ContainerPort: "5000"
         PlatformVersion: "LATEST"
+        
